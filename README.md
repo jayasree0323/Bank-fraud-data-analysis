@@ -21,7 +21,7 @@ This project focuses on analyzing banking transaction data to identify patterns 
 - Analyze the impact of customer, transaction, and geographic factors on fraud occurrence.
 - Generate business insights for fraud prevention strategies.
 ## Dashboard Preview
-<img width="895" height="503" alt="Screenshot 2026-06-14 143758" src="https://github.com/user-attachments/assets/128cd440-ac83-4b88-a8d5-daf64899a8b6" />
+- <img width="895" height="503" alt="Screenshot 2026-06-14 143758" src="https://github.com/user-attachments/assets/128cd440-ac83-4b88-a8d5-daf64899a8b6" />
 ## Key Insights
 - Fraudulent transactions exhibit different behavioral patterns compared to legitimate transactions.
 - International transactions and repeated failed attempts show higher fraud risk.
