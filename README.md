@@ -1,5 +1,4 @@
 # Bank-fraud-data-analysis
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data processing, data cleaning, and data visualization.
 ## Project Overview
 This project focuses on analyzing banking transaction data to identify patterns associated with fraudulent activities. Using a dataset containing 1,000,000 customer transactions and 26 features, the analysis explores customer behavior, transaction characteristics, and fraud indicators to support fraud detection and risk management.
 ## 🛠️ Tools & Technologies
@@ -23,6 +22,8 @@ Identify trends and patterns in fraudulent transactions.
 Compare fraud and non-fraud transaction behavior.
 Analyze the impact of customer, transaction, and geographic factors on fraud occurrence.
 Generate business insights for fraud prevention strategies.
+## Dashboard Preview
+<img width="895" height="503" alt="Screenshot 2026-06-14 143758" src="https://github.com/user-attachments/assets/128cd440-ac83-4b88-a8d5-daf64899a8b6" />
 ## Key Insights
 Fraudulent transactions exhibit different behavioral patterns compared to legitimate transactions.
 International transactions and repeated failed attempts show higher fraud risk.
@@ -34,6 +35,3 @@ Implement real-time fraud detection systems.
 Increase verification for international transactions.
 Monitor accounts with multiple failed authentication attempts.
 Develop machine learning models for proactive fraud prevention.
-## Dashboard Preview
- <img width="895" height="503" alt="Screenshot 2026-06-14 143758" src="https://github.com/user-attachments/assets/e352585b-775e-4931-92cc-49718fed2030" />
-
