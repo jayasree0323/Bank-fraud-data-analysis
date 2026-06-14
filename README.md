@@ -2,12 +2,12 @@
 ## Project Overview
 This project focuses on analyzing banking transaction data to identify patterns associated with fraudulent activities. Using a dataset containing 1,000,000 customer transactions and 26 features, the analysis explores customer behavior, transaction characteristics, and fraud indicators to support fraud detection and risk management.
 ## 🛠️ Tools & Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-Jupyter Notebook
 ## Dataset used
 - <a href="https://github.com/jayasree0323/Bank-fraud-data-analysis/blob/main/bank_fraud.csv"> Data set </a>
 ## Questions
