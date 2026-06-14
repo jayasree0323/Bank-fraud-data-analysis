@@ -34,3 +34,5 @@ This project focuses on analyzing banking transaction data to identify patterns 
 - Monitor accounts with multiple failed authentication attempts.
 - Develop machine learning models for proactive fraud prevention.
 ## Author
+Jayasree. M
+- LinkedIn: www.linkedin.com/in/m-jaya-sree-266a47332
