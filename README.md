@@ -35,4 +35,5 @@ Increase verification for international transactions.
 Monitor accounts with multiple failed authentication attempts.
 Develop machine learning models for proactive fraud prevention.
 ## Dashboard Preview
- <a href="https://github.com/jayasree0323/Bank-fraud-data-analysis/blob/main/Screenshot%202026-06-14%20143758.png"> View Dashboard </a>
+ <img width="895" height="503" alt="Screenshot 2026-06-14 143758" src="https://github.com/user-attachments/assets/e352585b-775e-4931-92cc-49718fed2030" />
+
