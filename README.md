@@ -8,3 +8,4 @@ kaggle	Dataset sourcing
 Microsoft Excel	Initial data cleaning
 Power BI Desktop	Dashboard and visualization
 ## Dataset used
+- <a href="https://github.com/jayasree0323/Bank-fraud-data-analysis/blob/main/bank_fraud.csv"> Data set </a>
